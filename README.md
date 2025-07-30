@@ -168,8 +168,8 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-**Sachin Yadav**
-📧 [sachinyadav887780@gmail.com](mailto:sachinyadav887780@gmail.com)
+**VasuDev**
+📧 [vasugupta345@gmail.com]
 
 ---
 
